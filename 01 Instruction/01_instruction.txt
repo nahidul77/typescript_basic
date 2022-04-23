@@ -1,0 +1,20 @@
+install node js
+
+npm i -g typescript
+
+***compile typescript
+
+tsc filename
+
+***typescript config json
+
+tsc --init
+
+***root directory and output directory setup
+
+"rootDir": "./src",
+"outDir": "./output"
+
+***watch flag
+
+tsc -w
